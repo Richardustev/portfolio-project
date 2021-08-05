@@ -209,6 +209,10 @@
     width: 76%;
 }
 
+.project-cards img{
+    height: 100%;
+}
+
 /*footer*/
 footer{
     background-image: linear-gradient(-180deg, #27303C, #256787);
