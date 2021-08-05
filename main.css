@@ -206,7 +206,28 @@
 .project-cards{
     color: #000;
     margin: 30px auto;
-    width: 75%;
+    width: 76%;
+}
+
+/*footer*/
+footer{
+    background-image: linear-gradient(-180deg, #27303C, #256787);
+}
+
+.social-network{
+    display: flex;
+    align-items: center;
+}
+
+.social-network ul{
+    display: flex;
+    margin: 0 auto;
+    list-style: none;
+    padding: 2em;
+}
+
+.social-network ul > li{
+    margin: 0 1em;
 }
 
 /*MEDIA QUERY*/
